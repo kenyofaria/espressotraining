@@ -25,9 +25,6 @@ task clean(type: Delete) {
 }
 
 ext {
-
-//    buildToolsVersion = "25.0.0"
-//    supportLibVersion = "25.4.0"
     buildToolsVersion = "26.0.0"
     supportLibVersion = "26.0.0"
     runnerVersion = "1.0.0"
